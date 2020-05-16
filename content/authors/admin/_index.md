@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:nzhang2@wpi.edu  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nan-zhang-2ba83795/
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -67,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Test paragraph 1
+Paragraph 1
 
-Test paragraph 2.
+Paragraph 2.
